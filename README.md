@@ -1,2 +1,2 @@
-# beginning--bioinformatics
+# beginning-bioinformatics
 Beginning Bioinformatics course code
